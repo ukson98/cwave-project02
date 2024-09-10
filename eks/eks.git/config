@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = http://10.0.201.57:8080/team2/eks
+	fetch = +refs/*:refs/*
+	mirror = true
